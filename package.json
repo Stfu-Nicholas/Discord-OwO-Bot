@@ -38,19 +38,4 @@
     "workerpool": "^3.1.2",
     "ws": "^7.3.0",
     "zlib-sync": "^0.1.7"
-  },
-  "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ChristopherBThai/Discord-OwO-Bot.git"
-  },
-  "author": "Christopher Thai",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/ChristopherBThai/Discord-OwO-Bot/issues"
-  },
-  "homepage": "https://github.com/ChristopherBThai/Discord-OwO-Bot#readme"
-}
+ 
